@@ -888,7 +888,7 @@ upcoming meetings
 */
 
 section.upcoming-meetings {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(../images/facts-bgtest.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1012,6 +1012,9 @@ section.upcoming-meetings .categories .main-button-red a {
   margin-left: 50px;
   color: #1f272b;
   font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 
@@ -1023,7 +1026,7 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/apply-bg.jpg);
+  background-image: url(../images/facts-bgtest.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1325,7 +1328,7 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(background-image: url(../images/meeting-00ng.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1334,7 +1337,7 @@ section.contact-us {
 }
 
 section.contact-us #contact {
-  background-color: #fff;
+  background-color: #ececec;
   border-radius: 20px;
   padding: 40px;
 }
@@ -1383,7 +1386,7 @@ section.contact-us #contact textarea {
 section.contact-us #contact button {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: #5f191c;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1399,7 +1402,7 @@ section.contact-us #contact button:hover {
 }
 
 section.contact-us .right-info {
-  background-color: #a12c2f;
+  background-color: #5f191c;
   border-radius: 20px;
   padding: 40px;
 }
@@ -1496,7 +1499,7 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/meetings-page-bg.jpg);
+  background-image: url(../images/facts-bgtest.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
